@@ -3,24 +3,24 @@
         "Lock": {
             "Coordinates": {
                 "Y": 151, 
-                "X": 115
+                "X": 23
             }, 
             "ImageIndexOn": 21, 
             "ImageIndexOff": 21
         }, 
         "DoNotDisturb": {
-            "ImageIndexOn": 39, 
+            "ImageIndexOn": 33, 
             "Coordinates": {
                 "Y": 151, 
-                "X": 143
+                "X": 54
             }, 
-            "ImageIndexOff": 39
+            "ImageIndexOff": 33
         }, 
         "Bluetooth": {
             "ImageIndexOn": 31, 
             "Coordinates": {
-                "Y": 151, 
-                "X": 10
+                "Y": 121, 
+                "X": 4
             }, 
             "ImageIndexOff": 32
         }
@@ -31,38 +31,38 @@
             "TwoDigitsDay": true, 
             "Separate": {
                 "Day": {
-                    "TopLeftX": 91, 
+                    "TopLeftX": 0, 
                     "TopLeftY": 151, 
-                    "Spacing": 1, 
+                    "Spacing": 2, 
                     "ImagesCount": 10, 
-                    "BottomRightY": 166, 
-                    "BottomRightX": 113, 
+                    "BottomRightY": 175, 
+                    "BottomRightX": 30, 
                     "ImageIndex": 11, 
-                    "Alignment": "TopRight"
+                    "Alignment": "TopLeft"
                 }, 
                 "Month": {
-                    "TopLeftX": 124, 
+                    "TopLeftX": 31, 
                     "TopLeftY": 151, 
-                    "Spacing": 1, 
+                    "Spacing": 2, 
                     "ImagesCount": 10, 
-                    "BottomRightY": 166, 
-                    "BottomRightX": 142, 
+                    "BottomRightY": 175, 
+                    "BottomRightX": 56, 
                     "ImageIndex": 11, 
-                    "Alignment": "TopCenter"
+                    "Alignment": "TopLeft"
                 }
             }
         }, 
         "WeekDay": {
-            "Y": 151, 
-            "X": 52, 
+            "Y": 121, 
+            "X": 40, 
             "ImageIndex": 22, 
             "ImagesCount": 7
         }
     }, 
     "Activity": {
         "Calories": {
-            "TopLeftX": 30, 
-            "TopLeftY": 86, 
+            "TopLeftX": 20, 
+            "TopLeftY": 61, 
             "Spacing": 2, 
             "ImagesCount": 10, 
             "BottomRightY": 99, 
@@ -71,8 +71,8 @@
             "Alignment": "TopLeft"
         }, 
         "Steps": {
-            "TopLeftX": 30, 
-            "TopLeftY": 16, 
+            "TopLeftX": 20, 
+            "TopLeftY": 1, 
             "Spacing": 2, 
             "ImagesCount": 10, 
             "BottomRightY": 29, 
@@ -81,8 +81,8 @@
             "Alignment": "TopLeft"
         }, 
         "Pulse": {
-            "TopLeftX": 30, 
-            "TopLeftY": 51, 
+            "TopLeftX": 20, 
+            "TopLeftY": 31, 
             "Spacing": 2, 
             "ImagesCount": 10, 
             "BottomRightY": 64, 
@@ -91,10 +91,10 @@
             "Alignment": "TopLeft"
         }, 
         "Distance": {
-            "DecimalPointImageIndex": 30, 
+            "DecimalPointImageIndex": 29, 
             "Number": {
-                "TopLeftX": 30, 
-                "TopLeftY": 121, 
+                "TopLeftX": 20, 
+                "TopLeftY": 91, 
                 "Spacing": 2, 
                 "ImagesCount": 10, 
                 "BottomRightY": 134, 
@@ -102,7 +102,7 @@
                 "ImageIndex": 11, 
                 "Alignment": "TopLeft"
             }, 
-            "SuffixImageIndex": 29
+            "SuffixImageIndex": 30
         }
     }, 
     "Background": {
@@ -115,13 +115,13 @@
     "Time": {
         "Hours": {
             "Tens": {
-                "Y": 11, 
-                "X": 94, 
+                "Y": 0, 
+                "X": 84, 
                 "ImageIndex": 1, 
                 "ImagesCount": 10
             }, 
             "Ones": {
-                "Y": 11, 
+                "Y": 0, 
                 "X": 133, 
                 "ImageIndex": 1, 
                 "ImagesCount": 10
@@ -129,17 +129,18 @@
         }, 
         "Minutes": {
             "Tens": {
-                "Y": 78, 
-                "X": 94, 
+                "Y": 91, 
+                "X": 84, 
                 "ImageIndex": 1, 
                 "ImagesCount": 10
             }, 
             "Ones": {
-                "Y": 78, 
+                "Y": 91, 
                 "X": 133, 
                 "ImageIndex": 1, 
                 "ImagesCount": 10
             }
-        }
+        }, 
+        "DrawingOrder": "1234"
     }
 }
