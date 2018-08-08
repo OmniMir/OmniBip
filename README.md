@@ -2,15 +2,13 @@
 
 Crafting New Watchface to Amazfit Bip
 
-
-
-![](https://github.com/OmniMir/OmniBip/releases/download/2.0/OmniBip.gif) ![](https://github.com/OmniMir/OmniBip/releases/download/2.0/OmniBip.png)  
+![1](https://github.com/OmniMir/OmniBip/releases/download/2.0/OmniBip.png)  ![2](https://github.com/OmniMir/OmniBip/releases/download/2.0/OmniBip.gif) 
 
 
 
 ### Installing watchface
 
-Download [**OmniBip** Watchface](https://github.com/OmniMir/OmniBip/releases)
+Download [**OmniBip** Watchface](https://github.com/OmniMir/OmniBip/releases/latest)
 
 
 
@@ -35,6 +33,7 @@ Wait and rejoice!
 ### Create or edit watchface
 
 Extract resources of any downloaded watchface with CLI **Amazfit Bip Tools**
+
 `.\WatchFace.exe path\to\watchface\any_watchface_name.bin`
 
 
@@ -54,17 +53,17 @@ Use CLI **Amazfit Bip Tools**
 
 If all is OK, you have files for installing
 
-`OmniBip.bin`
+`OmniBip_packed.bin`
 
-`OmniBip.gif`
+`OmniBip_packed.gif`
 
-`OmniBip.png`
+`OmniBip_packed.png`
 
-`OmniBip_log.txt`
+`OmniBip_packed.txt`
 
 
 
-Rename `OmniBip.bin` to `3a8cdd67067acdcf34fef1faa3563f2f.bin`
+Rename `OmniBip_packed.bin` to `3a8cdd67067acdcf34fef1faa3563f2f.bin`
 
 
 
