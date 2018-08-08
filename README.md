@@ -2,7 +2,7 @@
 
 Crafting New Watchface to Amazfit Bip
 
-![](https://i.imgur.com/83xXZ9G.png)  ![](https://i.imgur.com/4rGkUOY.gif) 
+![1](https://github.com/OmniMir/OmniBip/releases/download/2.0/OmniBip.png)  ![2](https://github.com/OmniMir/OmniBip/releases/download/2.0/OmniBip.gif) 
 
 
 
