@@ -1,27 +1,27 @@
 {
     "Status": {
         "Lock": {
+            "ImageIndexOn": 21, 
             "Coordinates": {
                 "Y": 151, 
                 "X": 23
             }, 
-            "ImageIndexOn": 21, 
             "ImageIndexOff": 21
         }, 
         "DoNotDisturb": {
-            "ImageIndexOn": 33, 
             "Coordinates": {
                 "Y": 151, 
                 "X": 54
             }, 
+            "ImageIndexOn": 33, 
             "ImageIndexOff": 33
         }, 
         "Bluetooth": {
-            "ImageIndexOn": 31, 
             "Coordinates": {
                 "Y": 121, 
                 "X": 4
             }, 
+            "ImageIndexOn": 31, 
             "ImageIndexOff": 32
         }
     }, 
@@ -59,59 +59,6 @@
             "ImagesCount": 7
         }
     }, 
-    "Activity": {
-        "Calories": {
-            "TopLeftX": 20, 
-            "TopLeftY": 61, 
-            "Spacing": 2, 
-            "ImagesCount": 10, 
-            "BottomRightY": 99, 
-            "BottomRightX": 77, 
-            "ImageIndex": 11, 
-            "Alignment": "TopLeft"
-        }, 
-        "Steps": {
-            "TopLeftX": 20, 
-            "TopLeftY": 1, 
-            "Spacing": 2, 
-            "ImagesCount": 10, 
-            "BottomRightY": 29, 
-            "BottomRightX": 77, 
-            "ImageIndex": 11, 
-            "Alignment": "TopLeft"
-        }, 
-        "Pulse": {
-            "TopLeftX": 20, 
-            "TopLeftY": 31, 
-            "Spacing": 2, 
-            "ImagesCount": 10, 
-            "BottomRightY": 64, 
-            "BottomRightX": 77, 
-            "ImageIndex": 11, 
-            "Alignment": "TopLeft"
-        }, 
-        "Distance": {
-            "DecimalPointImageIndex": 29, 
-            "Number": {
-                "TopLeftX": 20, 
-                "TopLeftY": 91, 
-                "Spacing": 2, 
-                "ImagesCount": 10, 
-                "BottomRightY": 134, 
-                "BottomRightX": 90, 
-                "ImageIndex": 11, 
-                "Alignment": "TopLeft"
-            }, 
-            "SuffixImageIndex": 30
-        }
-    }, 
-    "Background": {
-        "Image": {
-            "Y": 0, 
-            "X": 0, 
-            "ImageIndex": 0
-        }
-    }, 
     "Time": {
         "Hours": {
             "Tens": {
@@ -142,5 +89,58 @@
             }
         }, 
         "DrawingOrder": "1234"
+    }, 
+    "Background": {
+        "Image": {
+            "Y": 0, 
+            "X": 0, 
+            "ImageIndex": 0
+        }
+    }, 
+    "Activity": {
+        "Steps": {
+            "TopLeftX": 20, 
+            "TopLeftY": 1, 
+            "Spacing": 2, 
+            "ImagesCount": 10, 
+            "BottomRightY": 29, 
+            "BottomRightX": 77, 
+            "ImageIndex": 11, 
+            "Alignment": "TopLeft"
+        }, 
+        "Calories": {
+            "TopLeftX": 20, 
+            "TopLeftY": 61, 
+            "Spacing": 2, 
+            "ImagesCount": 10, 
+            "BottomRightY": 99, 
+            "BottomRightX": 77, 
+            "ImageIndex": 11, 
+            "Alignment": "TopLeft"
+        }, 
+        "Pulse": {
+            "TopLeftX": 20, 
+            "TopLeftY": 31, 
+            "Spacing": 2, 
+            "ImagesCount": 10, 
+            "BottomRightY": 64, 
+            "BottomRightX": 77, 
+            "ImageIndex": 11, 
+            "Alignment": "TopLeft"
+        }, 
+        "Distance": {
+            "SuffixImageIndex": 30, 
+            "Number": {
+                "TopLeftX": 20, 
+                "TopLeftY": 91, 
+                "Spacing": 2, 
+                "ImagesCount": 10, 
+                "BottomRightY": 134, 
+                "BottomRightX": 90, 
+                "ImageIndex": 11, 
+                "Alignment": "TopLeft"
+            }, 
+            "DecimalPointImageIndex": 29
+        }
     }
 }
