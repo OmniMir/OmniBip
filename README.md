@@ -10,9 +10,9 @@ Download [**OmniBip** Watchface](https://github.com/OmniMir/OmniBip/releases/lat
 
 
 
-Copy `3a8cdd67067acdcf34fef1faa3563f2f.bin` to
+Copy `7e7cca472cb21cebb9a4b6fcd030fd9c.bin` to
 
-`\Android\data\com.xiaomi.hm.health\files\watch_skin_local\3a8cdd67067acdcf34fef1faa3563f2f\` on your phone
+`\Android\data\com.xiaomi.hm.health\files\watch_skin_local\7e7cca472cb21cebb9a4b6fcd030fd9c\` on your phone
 
 
 
@@ -61,7 +61,7 @@ If all is OK, you have files for installing
 
 
 
-Rename `OmniBip_packed.bin` to `3a8cdd67067acdcf34fef1faa3563f2f.bin`
+Rename `OmniBip_packed.bin` to `7e7cca472cb21cebb9a4b6fcd030fd9c.bin`
 
 
 
