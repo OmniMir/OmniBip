@@ -20,7 +20,7 @@ In some versions use `\Android\data\com.xiaomi.hm.health\files\watch_skin\` inst
 
 
 
-In **Mi Fit** go to Profile->Amazfit Bip->Themes and select very similar black watchface with big numbers
+In **Mi Fit** go to Profile->Amazfit Bip->Themes and select very similar black watchface with big numbers (Digit series 2)
 
 
 
