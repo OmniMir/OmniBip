@@ -2,7 +2,7 @@
 
 Crafting New Watchface to Amazfit Bip
 
-![](https://i.imgur.com/TTwOq5I.png)  ![](https://i.imgur.com/tKTRAuh.gif) 
+![](https://i.imgur.com/Q7Og5no.png)  ![](https://i.imgur.com/3HMQ2R3.gif) 
 
 ### Installing watchface
 
