@@ -1,13 +1,5 @@
 {
     "Status": {
-        "Lock": {
-            "Coordinates": {
-                "Y": 151,
-                "X": 23
-            },
-            "ImageIndexOn": 21,
-            "ImageIndexOff": 21
-        },
         "DoNotDisturb": {
             "ImageIndexOn": 35,
             "Coordinates": {
@@ -31,6 +23,14 @@
             },
             "ImageIndexOn": 36,
             "ImageIndexOff": 34
+        },
+        "Lock": {
+            "Coordinates": {
+                "X": 53,
+                "Y": 151
+            },
+            "ImageIndexOn": 33,
+            "ImageIndexOff": 33
         }
     },
     "Date": {
@@ -39,12 +39,12 @@
             "TwoDigitsDay": true,
             "Separate": {
                 "Day": {
-                    "TopLeftX": 1,
+                    "TopLeftX": 2,
                     "TopLeftY": 151,
                     "Spacing": 2,
                     "ImagesCount": 10,
                     "BottomRightY": 175,
-                    "BottomRightX": 30,
+                    "BottomRightX": 31,
                     "ImageIndex": 11,
                     "Alignment": "TopLeft"
                 },
@@ -148,12 +148,6 @@
                 "ImageIndex": 1,
                 "ImagesCount": 10
             }
-        },
-        "AmPm": {
-            "Y": 151,
-            "X": 53,
-            "ImageIndexAm": 33,
-            "ImageIndexPm": 33
         }
     }
 }
