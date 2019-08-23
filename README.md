@@ -7,12 +7,9 @@ Crafting New Watchface to Amazfit Bip
 ### Installing watchface
 Download [**OmniBip** Watchface](https://github.com/OmniMir/OmniBip/releases/latest)
 
-Copy `7e7cca472cb21cebb9a4b6fcd030fd9c.bin` to
-`\Android\data\com.xiaomi.hm.health\files\watch_skin_local\7e7cca472cb21cebb9a4b6fcd030fd9c\` on your phone
+Extract `1080e7d66f8c1d14414cab0c659cc948.zip` to `\Android\data\com.xiaomi.hm.health\files\watch_skin_local\1080e7d66f8c1d14414cab0c659cc948\` on your phone
 
-In some versions use `\Android\data\com.xiaomi.hm.health\files\watch_skin\` instead that
-
-In **Mi Fit** go to Profile->Amazfit Bip->Themes and select very similar black watchface with big numbers (Digit series 2)
+In **Mi Fit** connect connect Amazfit Bip and go to `Profile -> Amazfit Bip -> Themes -> Local Watchfaces` and select new sexy black watchface **OmniBip** with big numbers 
 
 Wait and rejoice!
 
@@ -33,9 +30,12 @@ If all is OK, you have files for installing
 `OmniBip_packed.png`
 `OmniBip_packed.txt`
 
-Rename `OmniBip_packed.bin` to `7e7cca472cb21cebb9a4b6fcd030fd9c.bin`
+Rename `OmniBip_packed.bin` to `1080e7d66f8c1d14414cab0c659cc948.bin`
+
+For installation in Local Watchfaces it is necessary to change beginning of `0010` line from `FF FF FF FF FF FF FF FF` to `0F 00 EE 00 00 00 39 60` in Hex Editor ([Thanks](https://amazfitwatchfaces.com/forum/viewtopic.php?t=128))
 
 ### Software
 [Amazfit Bip Tools](https://bitbucket.org/valeronm/amazfitbiptools/downloads/)
 [Bip Watchface Editor](https://forum.gizchina.it/index.php?/topic/1489-bip-wf-editor-by-ilgruppotester/)
+[HxD](https://mh-nexus.de/en/hxd/)
 [Mi Fit](https://play.google.com/store/apps/details?id=com.xiaomi.hm.health&hl=ru)
