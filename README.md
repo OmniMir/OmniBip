@@ -2,7 +2,7 @@
 
 Crafting New Watchface to Amazfit Bip
 
-![](https://i.imgur.com/eV4306j.png)  ![](https://i.imgur.com/BVEenZs.gif) 
+![](https://i.imgur.com/TU94EKV.png)  ![](https://i.imgur.com/Fl7N9GN.gif) 
 
 ### Installing watchface
 Download [**OmniBip** Watchface](https://github.com/OmniMir/OmniBip/releases/latest)
