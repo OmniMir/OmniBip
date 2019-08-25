@@ -15,6 +15,7 @@ Wait and rejoice!
 
 ### Create or edit watchface
 Extract resources of any downloaded watchface with CLI **Amazfit Bip Tools**
+
 `.\WatchFace.exe path\to\watchface\any_watchface_name.bin`
 
 Use GUI **Watchface Editor** and your favorite graphic software to create design
@@ -22,9 +23,11 @@ Use GUI **Watchface Editor** and your favorite graphic software to create design
 Generate new and edited resources with main JSON
 
 Use CLI **Amazfit Bip Tools**
+
 `.\WatchFace.exe path\to\OmniBip\OmniBip.json`
 
 If all is OK, you have files for installing
+
 `OmniBip_packed.bin`
 `OmniBip_packed.gif`
 `OmniBip_packed.png`
@@ -36,6 +39,9 @@ For installation in Local Watchfaces it is necessary to change beginning of `001
 
 ### Software
 [Amazfit Bip Tools](https://bitbucket.org/valeronm/amazfitbiptools/downloads/)
+
 [Bip Watchface Editor](https://forum.gizchina.it/index.php?/topic/1489-bip-wf-editor-by-ilgruppotester/)
+
 [HxD](https://mh-nexus.de/en/hxd/)
+
 [Mi Fit](https://play.google.com/store/apps/details?id=com.xiaomi.hm.health&hl=ru)
