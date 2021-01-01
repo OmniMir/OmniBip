@@ -14,19 +14,19 @@ In **Mi Fit** or **Amazfit Zepp** connect Amazfit Bip and go to `Profile -> Amaz
 Wait and rejoice!
 
 ### Create or edit watchface
-Extract resources of any downloaded watchface with CLI **Amazfit Bip Tools**
+Extract resources of any downloaded watchface with CLI **Amazfit Bip Tools**:
 
 `.\WatchFace.exe path\to\watchface\any_watchface_name.bin`
 
-Use GUI **Watchface Editor** and your favorite graphic software to create design
+Use GUI **Watchface Editor** and your favorite graphic software to create design:
 
 Generate new and edited resources with main JSON
 
-Use CLI **Amazfit Bip Tools**
+Use CLI **Amazfit Bip Tools**:
 
 `.\WatchFace.exe path\to\OmniBip\OmniBip.json`
 
-If all is OK, you have files for installing
+If all is OK, you have files for installing:
 
 `OmniBip_packed.bin`
 `OmniBip_packed.gif`
@@ -35,7 +35,7 @@ If all is OK, you have files for installing
 
 Rename `OmniBip_packed.bin` to `1080e7d66f8c1d14414cab0c659cc948.bin`
 
-For installation in Local Watchfaces it is necessary to change beginning of `0010` line from `FF FF FF FF FF FF FF FF` to `0F 00 EE 00 00 00 39 60` in Hex Editor ([Thanks](https://amazfitwatchfaces.com/forum/viewtopic.php?t=128))
+For installation in **Local Watchfaces** it is necessary to change beginning of `0010` line from `FF FF FF FF FF FF FF FF` to `0F 00 EE 00 00 00 39 60` in Hex Editor ([Thanks](https://amazfitwatchfaces.com/forum/viewtopic.php?t=128)).
 
 ### Software
 [Amazfit Bip Tools](https://bitbucket.org/valeronm/amazfitbiptools/downloads/)
