@@ -7,9 +7,9 @@ Crafting New Watchface to Amazfit Bip
 ### Installing watchface
 Download [**OmniBip** Watchface](https://github.com/OmniMir/OmniBip/releases/latest)
 
-Extract `1080e7d66f8c1d14414cab0c659cc948.zip` to `\Android\data\com.xiaomi.hm.health\files\watch_skin_local\1080e7d66f8c1d14414cab0c659cc948\` on your phone
+Extract `1080e7d66f8c1d14414cab0c659cc948.zip` to `\Android\data\com.xiaomi.hm.health\files\watch_skin_local\1080e7d66f8c1d14414cab0c659cc948\` for **Mi Fit** App OR `\Android\data\com.huami.watch.hmwatchmanager\files\watch_skin_local\1080e7d66f8c1d14414cab0c659cc948\` for **Amazfit Zepp** App on your phone.
 
-In **Mi Fit** connect connect Amazfit Bip and go to `Profile -> Amazfit Bip -> Themes -> Local Watchfaces` and select new sexy black watchface **OmniBip** with big numbers 
+In **Mi Fit** or **Amazfit Zepp** connect Amazfit Bip and go to `Profile -> Amazfit Bip -> Themes -> Local Watchfaces` and select new sexy black watchface **OmniBip** with big numbers.
 
 Wait and rejoice!
 
@@ -44,4 +44,4 @@ For installation in Local Watchfaces it is necessary to change beginning of `001
 
 [HxD](https://mh-nexus.de/en/hxd/)
 
-[Mi Fit](https://play.google.com/store/apps/details?id=com.xiaomi.hm.health&hl=ru)
+[Mi Fit](https://play.google.com/store/apps/details?id=com.xiaomi.hm.health&hl=ru) or [Amazfit Zepp](https://play.google.com/store/apps/details?id=com.huami.watch.hmwatchmanager)
