@@ -9,6 +9,8 @@ Download [**OmniBip** Watchface](https://github.com/OmniMir/OmniBip/releases/lat
 
 Extract `1080e7d66f8c1d14414cab0c659cc948.zip` to `\Android\data\com.xiaomi.hm.health\files\watch_skin_local\1080e7d66f8c1d14414cab0c659cc948\` for **Mi Fit** App OR `\Android\data\com.huami.watch.hmwatchmanager\files\watch_skin_local\1080e7d66f8c1d14414cab0c659cc948\` for **Amazfit Zepp** App on your phone.
 
+If you not see directory `watch_skin_local`, go to `Profile -> Amazfit Bip -> Themes-> Online Watchfaces` and install any watchface. If you still not see directory `watch_skin_local`, copy new watchface to it via file manager on smartphone not via MTP.
+
 In **Mi Fit** or **Amazfit Zepp** connect Amazfit Bip and go to `Profile -> Amazfit Bip -> Themes -> Local Watchfaces` and select new sexy black watchface **OmniBip** with big numbers.
 
 Wait and rejoice!
